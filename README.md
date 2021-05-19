@@ -39,7 +39,7 @@ Jupyter notebooks (.ipynb files) are all written in python (v3.7.3). Loading tra
 Links:
 Not published yet.
 
-Data Source and Methods: The results are obtained from a dataset consists of 10,525 mantle convection simulations run for a Mars-like planet on a 2D quarter-cylindrical grid. A detailed description of the setup is available on https://doi.org/10.1093/gji/ggaa234 (Agarwal 2020). This respository does not contain the dataset itself as it is over 10 TB large, but provides some trained machine learning models which can be used to predict the spatio-temporal thermal evolution of a Mars-like planet. 
+Data Source and Methods: The results are obtained from a dataset consists of 10,525 mantle convection simulations run for a Mars-like planet on a 2D quarter-cylindrical grid. A detailed description of the setup is available on https://doi.org/10.1093/gji/ggaa234 (Agarwal 2020). This respository does not contain the complete dataset as it is over 10 TB large, but provides some trained machine learning models which can be used to predict the spatio-temporal thermal evolution of a Mars-like planet. 
 
 Directory structure: simulateMars.ipynb can be used to calculate the 2D convective thermal evolution of Mars. User needs to only provide five input parameters. 
 More advanced users can dig into processData/ to examine the data processing routines, train/ and utils/ to see how machine learning models were trained and loadTrainedModels/ for verifying the results obtained (such as error/relative accuracy plots).
