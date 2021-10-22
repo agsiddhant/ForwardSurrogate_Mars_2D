@@ -1,4 +1,4 @@
-Title: Supporting code for deep learning for surrogate modelling of two-dimensional mantle convection
+Supporting code for deep learning for surrogate modelling of two-dimensional mantle convection
 
 <a href="https://doi.org/10.5281/zenodo.4624823"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4624823.svg" alt="DOI"></a>
 
