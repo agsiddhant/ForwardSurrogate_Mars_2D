@@ -1,4 +1,5 @@
-Title: Deep learning for parametric surrogate modelling of 2D mantle convection
+Title: Deep learning for surrogate modelling of two-dimensional mantle convection
+<a href="https://doi.org/10.5281/zenodo.4624823"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4624823.svg" alt="DOI"></a>
 
 ![Machine learning for mantle convection](https://github.com/agsiddhant/ForwardSurrogate_Mars_2D/blob/main/Fig_Concept.svg)
 
