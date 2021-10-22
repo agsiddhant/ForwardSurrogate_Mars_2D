@@ -4,7 +4,7 @@ authors:
 - family-names: "Agarwal"
   given-names: "Siddhant"
   orcid: "https://orcid.org/0000-0002-0840-2114"
-title: "ForwardSurrogate_Mars_2D"
+title: "Supporting code for deep learning for surrogate modelling of two-dimensional mantle convection"
 version: 1.0.0
 doi: 10.5281/zenodo.4624823
 date-released: 2021-03-20
