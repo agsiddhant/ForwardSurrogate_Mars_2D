@@ -16,7 +16,7 @@ Date files were created: 2020/2021
 
 Date the files were last updated: 20.03.2021
 
-Version: 0.1
+Version: 1.0.0
 
 Author information:
 Siddhant Agarwal
